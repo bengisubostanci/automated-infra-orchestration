@@ -1,0 +1,73 @@
+networks:
+  infra_network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+    driver: local
+  minio_data:
+    driver: local
+
+services:
+  # Metadata Veritabanı Servisi
+  metadata-db:
+    image: postgres:15-alpine
+    container_name: infra_metadata_db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - infra_network
+    restart: always
+
+  # Nesne Depolama (S3 Uyumlu MinIO) Servisi
+  storage-engine:
+    image: minio/minio:latest
+    container_name: infra_storage_engine
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    volumes:
+      - minio_data:/data
+    networks:
+      - infra_network
+    command: server /data --console-address ":9001"
+    restart: always
+
+  # Apache Spark Master Servisi (Resmi Apache İmajı)
+  spark-master:
+    image: apache/spark:3.5.0
+    container_name: infra_spark_master
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+    ports:
+      - "8080:8080"
+      - "7077:7077"
+    networks:
+      - infra_network
+    restart: always
+
+  # Apache Spark Worker Servisi (Resmi Apache İmajı)
+  spark-worker:
+    image: apache/spark:3.5.0
+    container_name: infra_spark_worker
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077
+      - SPARK_WORKER_CORES=2
+      - SPARK_WORKER_MEMORY=2G
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+    depends_on:
+      - spark-master
+    networks:
+      - infra_network
+    restart: always
