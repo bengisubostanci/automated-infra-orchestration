@@ -1,3 +1,10 @@
+
+<img width="1256" height="885" alt="Ekran görüntüsü 2026-06-05 234938" src="https://github.com/user-attachments/assets/537da92a-d9de-479c-9966-dd0be241c401" />
+
+
+<img width="1716" height="885" alt="Ekran görüntüsü 2026-06-05 235527" src="https://github.com/user-attachments/assets/c55eac0a-5ffb-4382-85d6-da3e1a59a654" />
+
+
 # Automated Multi-Node Infrastructure & Platform Orchestration
 
 This repository contains the foundational configuration for an automated, multi-node infrastructure designed for scalable data processing, centralized metadata management, and S3-compatible object storage. The entire ecosystem is fully containerized and orchestrated using advanced multi-container environments.
