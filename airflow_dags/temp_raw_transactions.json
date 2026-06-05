@@ -1,0 +1,902 @@
+[
+    {
+        "transaction_id": "TXN_517283",
+        "customer_id": "CUST_9427",
+        "amount": 1624.36,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 08:56:26"
+    },
+    {
+        "transaction_id": "TXN_620866",
+        "customer_id": "CUST_3622",
+        "amount": 94.25,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 06:24:26"
+    },
+    {
+        "transaction_id": "TXN_412935",
+        "customer_id": "CUST_2878",
+        "amount": 823.13,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 08:56:26"
+    },
+    {
+        "transaction_id": "TXN_932509",
+        "customer_id": "CUST_7318",
+        "amount": 4825.98,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 09:38:26"
+    },
+    {
+        "transaction_id": "TXN_766041",
+        "customer_id": "CUST_2501",
+        "amount": 1606.88,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "PENDING",
+        "timestamp": "2026-06-04 22:27:26"
+    },
+    {
+        "transaction_id": "TXN_876741",
+        "customer_id": "CUST_3318",
+        "amount": 1865.72,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 16:36:26"
+    },
+    {
+        "transaction_id": "TXN_944332",
+        "customer_id": "CUST_3783",
+        "amount": 4968.48,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-04 22:43:26"
+    },
+    {
+        "transaction_id": "TXN_642948",
+        "customer_id": "CUST_1327",
+        "amount": 4824.46,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 12:15:26"
+    },
+    {
+        "transaction_id": "TXN_255023",
+        "customer_id": "CUST_8447",
+        "amount": 650.19,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 01:12:26"
+    },
+    {
+        "transaction_id": "TXN_180974",
+        "customer_id": "CUST_4756",
+        "amount": 1894.59,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-04 20:56:26"
+    },
+    {
+        "transaction_id": "TXN_631231",
+        "customer_id": "CUST_9896",
+        "amount": 15.09,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 03:38:26"
+    },
+    {
+        "transaction_id": "TXN_236505",
+        "customer_id": "CUST_8885",
+        "amount": 2297.42,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 09:05:26"
+    },
+    {
+        "transaction_id": "TXN_265863",
+        "customer_id": "CUST_7367",
+        "amount": 94.14,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 00:25:26"
+    },
+    {
+        "transaction_id": "TXN_673308",
+        "customer_id": "CUST_5405",
+        "amount": 355.13,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 16:49:26"
+    },
+    {
+        "transaction_id": "TXN_438439",
+        "customer_id": "CUST_6217",
+        "amount": 739.17,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 05:53:26"
+    },
+    {
+        "transaction_id": "TXN_919992",
+        "customer_id": "CUST_2132",
+        "amount": 2648.88,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 19:51:26"
+    },
+    {
+        "transaction_id": "TXN_192211",
+        "customer_id": "CUST_8205",
+        "amount": 3553.09,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 10:09:26"
+    },
+    {
+        "transaction_id": "TXN_648186",
+        "customer_id": "CUST_7661",
+        "amount": 1036.28,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 12:21:26"
+    },
+    {
+        "transaction_id": "TXN_746217",
+        "customer_id": "CUST_8031",
+        "amount": 187.61,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 08:26:26"
+    },
+    {
+        "transaction_id": "TXN_572730",
+        "customer_id": "CUST_7549",
+        "amount": 1884.21,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 08:00:26"
+    },
+    {
+        "transaction_id": "TXN_952712",
+        "customer_id": "CUST_1005",
+        "amount": 4207.4,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 10:13:26"
+    },
+    {
+        "transaction_id": "TXN_470048",
+        "customer_id": "CUST_2721",
+        "amount": 2544.65,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-04 23:29:26"
+    },
+    {
+        "transaction_id": "TXN_307687",
+        "customer_id": "CUST_3492",
+        "amount": 4415.95,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 08:47:26"
+    },
+    {
+        "transaction_id": "TXN_705901",
+        "customer_id": "CUST_4941",
+        "amount": 3260.81,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 07:01:26"
+    },
+    {
+        "transaction_id": "TXN_436532",
+        "customer_id": "CUST_7765",
+        "amount": 607.26,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 20:14:26"
+    },
+    {
+        "transaction_id": "TXN_657318",
+        "customer_id": "CUST_9867",
+        "amount": 1360.89,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 15:08:26"
+    },
+    {
+        "transaction_id": "TXN_501442",
+        "customer_id": "CUST_1646",
+        "amount": 2030.05,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 12:01:26"
+    },
+    {
+        "transaction_id": "TXN_365562",
+        "customer_id": "CUST_8683",
+        "amount": 2255.03,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 18:52:26"
+    },
+    {
+        "transaction_id": "TXN_607126",
+        "customer_id": "CUST_7956",
+        "amount": 2076.35,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 06:17:26"
+    },
+    {
+        "transaction_id": "TXN_818940",
+        "customer_id": "CUST_9084",
+        "amount": 3541.84,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 05:55:26"
+    },
+    {
+        "transaction_id": "TXN_347120",
+        "customer_id": "CUST_6559",
+        "amount": 62.62,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 03:26:26"
+    },
+    {
+        "transaction_id": "TXN_283188",
+        "customer_id": "CUST_6004",
+        "amount": 2833.69,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 14:34:26"
+    },
+    {
+        "transaction_id": "TXN_594529",
+        "customer_id": "CUST_9016",
+        "amount": 1479.8,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 17:02:26"
+    },
+    {
+        "transaction_id": "TXN_839503",
+        "customer_id": "CUST_1925",
+        "amount": 2489.39,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-04 23:48:26"
+    },
+    {
+        "transaction_id": "TXN_997895",
+        "customer_id": "CUST_2926",
+        "amount": 4316.58,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 10:02:26"
+    },
+    {
+        "transaction_id": "TXN_717135",
+        "customer_id": "CUST_2795",
+        "amount": 2521.65,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 03:04:26"
+    },
+    {
+        "transaction_id": "TXN_760464",
+        "customer_id": "CUST_9440",
+        "amount": 161.15,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 19:14:26"
+    },
+    {
+        "transaction_id": "TXN_705760",
+        "customer_id": "CUST_2419",
+        "amount": 4157.0,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-04 21:11:26"
+    },
+    {
+        "transaction_id": "TXN_600611",
+        "customer_id": "CUST_6201",
+        "amount": 474.81,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 01:02:26"
+    },
+    {
+        "transaction_id": "TXN_651743",
+        "customer_id": "CUST_9069",
+        "amount": 2456.39,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 17:14:26"
+    },
+    {
+        "transaction_id": "TXN_918913",
+        "customer_id": "CUST_2991",
+        "amount": 1186.53,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-04 21:10:26"
+    },
+    {
+        "transaction_id": "TXN_563479",
+        "customer_id": "CUST_3096",
+        "amount": 1123.88,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 05:30:26"
+    },
+    {
+        "transaction_id": "TXN_620767",
+        "customer_id": "CUST_7897",
+        "amount": 1580.35,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 18:28:26"
+    },
+    {
+        "transaction_id": "TXN_465622",
+        "customer_id": "CUST_7911",
+        "amount": 857.64,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 04:44:26"
+    },
+    {
+        "transaction_id": "TXN_609771",
+        "customer_id": "CUST_3852",
+        "amount": 4724.04,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 16:30:26"
+    },
+    {
+        "transaction_id": "TXN_773667",
+        "customer_id": "CUST_9445",
+        "amount": 1433.5,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 15:27:26"
+    },
+    {
+        "transaction_id": "TXN_365083",
+        "customer_id": "CUST_8750",
+        "amount": 2288.16,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 00:43:26"
+    },
+    {
+        "transaction_id": "TXN_420400",
+        "customer_id": "CUST_4348",
+        "amount": 4462.58,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 08:23:26"
+    },
+    {
+        "transaction_id": "TXN_902328",
+        "customer_id": "CUST_2789",
+        "amount": 1922.71,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 09:06:26"
+    },
+    {
+        "transaction_id": "TXN_214669",
+        "customer_id": "CUST_2918",
+        "amount": 2776.9,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 05:44:26"
+    },
+    {
+        "transaction_id": "TXN_288770",
+        "customer_id": "CUST_3594",
+        "amount": 2170.09,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 19:01:26"
+    },
+    {
+        "transaction_id": "TXN_695955",
+        "customer_id": "CUST_4454",
+        "amount": 3556.5,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 18:48:26"
+    },
+    {
+        "transaction_id": "TXN_119090",
+        "customer_id": "CUST_9094",
+        "amount": 1252.03,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 07:53:26"
+    },
+    {
+        "transaction_id": "TXN_714546",
+        "customer_id": "CUST_9644",
+        "amount": 2552.03,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 16:38:26"
+    },
+    {
+        "transaction_id": "TXN_982977",
+        "customer_id": "CUST_6739",
+        "amount": 2073.69,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 01:38:26"
+    },
+    {
+        "transaction_id": "TXN_744844",
+        "customer_id": "CUST_1303",
+        "amount": 1603.01,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 13:44:26"
+    },
+    {
+        "transaction_id": "TXN_335764",
+        "customer_id": "CUST_6237",
+        "amount": 14.58,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 06:06:26"
+    },
+    {
+        "transaction_id": "TXN_629163",
+        "customer_id": "CUST_4651",
+        "amount": 4244.63,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 16:36:26"
+    },
+    {
+        "transaction_id": "TXN_945225",
+        "customer_id": "CUST_9567",
+        "amount": 681.65,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 08:58:26"
+    },
+    {
+        "transaction_id": "TXN_639949",
+        "customer_id": "CUST_9049",
+        "amount": 3832.53,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-04 23:41:26"
+    },
+    {
+        "transaction_id": "TXN_491509",
+        "customer_id": "CUST_3828",
+        "amount": 2984.02,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 03:10:26"
+    },
+    {
+        "transaction_id": "TXN_826388",
+        "customer_id": "CUST_4681",
+        "amount": 1328.66,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 19:00:26"
+    },
+    {
+        "transaction_id": "TXN_257963",
+        "customer_id": "CUST_6610",
+        "amount": 1299.5,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 00:08:26"
+    },
+    {
+        "transaction_id": "TXN_215027",
+        "customer_id": "CUST_5435",
+        "amount": 1218.65,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-04 21:16:26"
+    },
+    {
+        "transaction_id": "TXN_995105",
+        "customer_id": "CUST_8158",
+        "amount": 4874.87,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-04 20:45:26"
+    },
+    {
+        "transaction_id": "TXN_735658",
+        "customer_id": "CUST_5537",
+        "amount": 1568.17,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-04 22:55:26"
+    },
+    {
+        "transaction_id": "TXN_337080",
+        "customer_id": "CUST_7633",
+        "amount": 4759.94,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 13:12:26"
+    },
+    {
+        "transaction_id": "TXN_154741",
+        "customer_id": "CUST_6492",
+        "amount": 361.92,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 05:46:26"
+    },
+    {
+        "transaction_id": "TXN_221441",
+        "customer_id": "CUST_2076",
+        "amount": 1971.61,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 03:24:26"
+    },
+    {
+        "transaction_id": "TXN_157982",
+        "customer_id": "CUST_6384",
+        "amount": 2389.18,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 03:37:26"
+    },
+    {
+        "transaction_id": "TXN_613296",
+        "customer_id": "CUST_4132",
+        "amount": 3310.65,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 11:19:26"
+    },
+    {
+        "transaction_id": "TXN_988401",
+        "customer_id": "CUST_4382",
+        "amount": 2154.19,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-04 23:23:26"
+    },
+    {
+        "transaction_id": "TXN_463862",
+        "customer_id": "CUST_9829",
+        "amount": 3902.23,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 17:49:26"
+    },
+    {
+        "transaction_id": "TXN_230385",
+        "customer_id": "CUST_2226",
+        "amount": 1513.06,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 13:45:26"
+    },
+    {
+        "transaction_id": "TXN_168296",
+        "customer_id": "CUST_2166",
+        "amount": 322.7,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-04 20:59:26"
+    },
+    {
+        "transaction_id": "TXN_518163",
+        "customer_id": "CUST_1354",
+        "amount": 84.63,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 10:04:26"
+    },
+    {
+        "transaction_id": "TXN_113669",
+        "customer_id": "CUST_8052",
+        "amount": 2887.12,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 01:38:26"
+    },
+    {
+        "transaction_id": "TXN_632115",
+        "customer_id": "CUST_9306",
+        "amount": 484.64,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 16:22:26"
+    },
+    {
+        "transaction_id": "TXN_928230",
+        "customer_id": "CUST_2127",
+        "amount": 83.77,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 05:07:26"
+    },
+    {
+        "transaction_id": "TXN_318763",
+        "customer_id": "CUST_6397",
+        "amount": 3795.18,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 02:29:26"
+    },
+    {
+        "transaction_id": "TXN_257770",
+        "customer_id": "CUST_2209",
+        "amount": 4151.05,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 12:27:26"
+    },
+    {
+        "transaction_id": "TXN_461833",
+        "customer_id": "CUST_1084",
+        "amount": 4003.37,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 09:06:26"
+    },
+    {
+        "transaction_id": "TXN_497712",
+        "customer_id": "CUST_3863",
+        "amount": 2306.48,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 06:04:26"
+    },
+    {
+        "transaction_id": "TXN_291226",
+        "customer_id": "CUST_4984",
+        "amount": 3362.1,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "FAILED",
+        "timestamp": "2026-06-04 23:26:26"
+    },
+    {
+        "transaction_id": "TXN_992914",
+        "customer_id": "CUST_5436",
+        "amount": 4701.57,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 15:34:26"
+    },
+    {
+        "transaction_id": "TXN_350958",
+        "customer_id": "CUST_8299",
+        "amount": 3889.3,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 06:51:26"
+    },
+    {
+        "transaction_id": "TXN_885178",
+        "customer_id": "CUST_5187",
+        "amount": 4687.06,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 19:15:26"
+    },
+    {
+        "transaction_id": "TXN_305844",
+        "customer_id": "CUST_5020",
+        "amount": 236.12,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 00:13:26"
+    },
+    {
+        "transaction_id": "TXN_365109",
+        "customer_id": "CUST_8334",
+        "amount": 57.37,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 02:25:26"
+    },
+    {
+        "transaction_id": "TXN_468167",
+        "customer_id": "CUST_9892",
+        "amount": 766.85,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 13:25:26"
+    },
+    {
+        "transaction_id": "TXN_125698",
+        "customer_id": "CUST_6882",
+        "amount": 1206.52,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 15:01:26"
+    },
+    {
+        "transaction_id": "TXN_320489",
+        "customer_id": "CUST_6599",
+        "amount": 78.8,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 16:56:26"
+    },
+    {
+        "transaction_id": "TXN_943968",
+        "customer_id": "CUST_8793",
+        "amount": 1229.81,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 14:49:26"
+    },
+    {
+        "transaction_id": "TXN_974943",
+        "customer_id": "CUST_1344",
+        "amount": 4516.94,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "SUCCESS",
+        "timestamp": "2026-06-05 16:19:26"
+    },
+    {
+        "transaction_id": "TXN_124598",
+        "customer_id": "CUST_6868",
+        "amount": 276.54,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 20:01:26"
+    },
+    {
+        "transaction_id": "TXN_120348",
+        "customer_id": "CUST_1120",
+        "amount": 2772.8,
+        "currency": "TRY",
+        "channel": "Mobile",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 02:44:26"
+    },
+    {
+        "transaction_id": "TXN_989507",
+        "customer_id": "CUST_3780",
+        "amount": 2656.89,
+        "currency": "TRY",
+        "channel": "ATM",
+        "status": "FAILED",
+        "timestamp": "2026-06-05 11:53:26"
+    },
+    {
+        "transaction_id": "TXN_457726",
+        "customer_id": "CUST_7007",
+        "amount": 3803.18,
+        "currency": "TRY",
+        "channel": "Branch",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 11:58:26"
+    },
+    {
+        "transaction_id": "TXN_369512",
+        "customer_id": "CUST_9585",
+        "amount": 4828.94,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "FAILED",
+        "timestamp": "2026-06-04 23:45:26"
+    },
+    {
+        "transaction_id": "TXN_571820",
+        "customer_id": "CUST_5137",
+        "amount": 4755.91,
+        "currency": "TRY",
+        "channel": "Web",
+        "status": "PENDING",
+        "timestamp": "2026-06-05 06:10:26"
+    }
+]
